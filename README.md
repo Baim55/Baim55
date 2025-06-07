@@ -70,6 +70,9 @@ Currently, I'm enhancing my skills in JavaScript-based technologies and modern d
   <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
   </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman" />
+  </a>
 </p>
 
 ---
