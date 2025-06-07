@@ -46,9 +46,9 @@ Currently, I'm enhancing my skills in JavaScript-based technologies and modern d
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
   </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
-  </a>
+ <a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
+</a>
   <a href="https://vitejs.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" />
   </a>
