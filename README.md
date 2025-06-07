@@ -53,6 +53,6 @@ Currently, I'm enhancing my skills in JavaScript-based technologies and modern d
 
 ---
 
-### 📌 Top Languages
+### 📌 Top Languages 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baim55&layout=compact&theme=tokyonight)
