@@ -1,6 +1,6 @@
 ## 👋 Hi! I'm Beyim Rustemzade
 
-🎓 IT Student at Azerbaijan Technical University – SABAH Groups (3rd year)  
+🎓 IT Student at Azerbaijan Technical University – SABAH Groups (4th year)  
 💻 Front-End Developer | Focused on React.js  
 📧 Email: **rustemzadebeyim@gmail.com**
 
