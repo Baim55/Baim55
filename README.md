@@ -14,7 +14,6 @@ Currently, I'm enhancing my skills in JavaScript-based technologies and modern d
 
 - JavaScript (ES6+)
 - React.js and component-based development
-- Tailwind CSS & Material UI
 - Working with APIs using Vite, Express.js, and MongoDB
 
 ---
