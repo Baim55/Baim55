@@ -74,8 +74,9 @@ Building modern, responsive and user-friendly web applications.
 
 ---
 
-## ⏰ Coding Activity
+## 📦 Repository Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Baim55&theme=tokyonight&utcOffset=4" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Baim55&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Baim55&theme=tokyonight" />
 </p>
