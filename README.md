@@ -74,8 +74,8 @@ Building modern, responsive and user-friendly web applications.
 
 ---
 
-## 📊 Profile Summary
+## ⏰ Coding Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Baim55&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Baim55&theme=tokyonight&utcOffset=4" />
 </p>
