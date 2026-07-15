@@ -2,15 +2,41 @@
 
 # 👋 Hi, I'm Beyim Rustemzade
 
-### Front-End Developer • React.js • JavaScript
+### 💻 Front-End Developer | React.js
 
-<p>
-Building modern, responsive and user-friendly web applications.
-</p>
+🎓 IT Student at Azerbaijan Technical University — SABAH Groups (4th Year)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=22&duration=3500&pause=1200&color=61DAFB&center=true&vCenter=true&width=650&lines=Frontend+Developer;React.js+Developer;JavaScript+Enthusiast;Always+Learning+New+Technologies" />
+I create modern, responsive web interfaces using JavaScript, React, and Vite.  
+I also have foundational knowledge in Node.js, Express.js, and MongoDB.
 
-<br><br>
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+- JavaScript (ES6+)
+- React.js
+- REST APIs
+- Node.js
+- Express.js
+- MongoDB
+
+---
+
+## 🛠️ Skills
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,react,redux,nodejs,express,mongodb,tailwind,vite,git,github,bootstrap,figma,vscode,postman&perline=6"/>
+
+</div>
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
 
 <a href="mailto:rustemzadebeyim@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -28,81 +54,16 @@ Building modern, responsive and user-friendly web applications.
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-</div>
-
----
-
-## 💫 About Me
-
-🎓 IT Student at **Azerbaijan Technical University (SABAH Groups)**
-
-💻 Front-End Developer focused on **React.js**
-
-⚡ Passionate about building responsive and user-friendly web applications.
-
-🌱 Currently learning **Advanced React, Node.js, Express.js and MongoDB**
-
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,react,redux,nodejs,express,mongodb,tailwind,vite,git,github,figma,vscode,postman,bootstrap&perline=6"/>
 </p>
-
----
-
-## 📚 Currently Learning
-
-- JavaScript (ES6+)
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- REST APIs
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Baim55&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baim55&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-
-<a href="mailto:rustemzadebeyim@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/Baim55">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/beyim-rustemzade-868b852a6/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://www.instagram.com/baiimrstm">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=Baim55&style=for-the-badge&color=blueviolet)
-
-⭐️ Thanks for visiting my profile!
 
 </div>
