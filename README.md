@@ -14,7 +14,7 @@ Building modern, responsive and user-friendly web applications.
 
 ⚡ I build responsive, accessible and modern web applications.
 
-🌱 Currently improving my React ecosystem and backend skills with Node.js, Express.js and MongoDB.
+🌱 Currently focused on React.js, modern JavaScript, and building responsive web applications.
 
 ---
 
