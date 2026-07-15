@@ -2,39 +2,55 @@
 
 # 👋 Hi, I'm Beyim Rustemzade
 
-### 💻 Front-End Developer | React.js
+### Front-End Developer • React.js • JavaScript
 
-🎓 IT Student at Azerbaijan Technical University — SABAH Groups (4th Year)
+<p>
+Building modern, responsive and user-friendly web applications.
+</p>
 
-I create modern, responsive web interfaces using JavaScript, React, and Vite.  
-I also have foundational knowledge in Node.js, Express.js, and MongoDB.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Frontend+Developer;React.js+Developer;JavaScript+Enthusiast;Always+Learning+New+Technologies"/>
 
 </div>
+
+---
+
+## 👩‍💻 About Me
+
+🎓 IT Student at **Azerbaijan Technical University – SABAH Groups (4th Year)**
+
+💻 Passionate **Front-End Developer** focused on React.js.
+
+⚡ I build responsive, accessible and modern web applications.
+
+🌱 Currently improving my React ecosystem and backend skills with Node.js, Express.js and MongoDB.
 
 ---
 
 ## 🌱 Currently Learning
 
-- JavaScript (ES6+)
-- React.js
-- REST APIs
-- Node.js
-- Express.js
-- MongoDB
+<p align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+
+</p>
 
 ---
 
-## 🛠️ Skills
+## 🛠 Tech Stack
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,react,redux,nodejs,express,mongodb,tailwind,vite,git,github,bootstrap,figma,vscode,postman&perline=6"/>
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,react,redux,nodejs,express,mongodb,tailwind,vite,git,github,bootstrap,materialui,figma,vscode,postman"/>
 
-</div>
+</p>
 
 ---
 
-## 📫 Contact Me
+## 🌐 Contact Me
 
 <p align="center">
 
@@ -43,7 +59,7 @@ I also have foundational knowledge in Node.js, Express.js, and MongoDB.
 </a>
 
 <a href="https://www.linkedin.com/in/beyim-rustemzade-868b852a6/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Baim55">
@@ -60,10 +76,10 @@ I also have foundational knowledge in Node.js, Express.js, and MongoDB.
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Baim55&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Baim55&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baim55&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baim55&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
