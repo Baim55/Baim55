@@ -2,13 +2,16 @@
 
 # 👋 Hi, I'm Beyim Rustemzade
 
-### 💻 Front-End Developer | React.js Enthusiast
-
-🎓 IT Student at Azerbaijan Technical University — SABAH Groups
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Frontend+Developer;React.js+Developer;JavaScript+Enthusiast;Building+Modern+Web+Applications" />
+### Front-End Developer • React.js • JavaScript
 
 <p>
+Building modern, responsive and user-friendly web applications.
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=22&duration=3500&pause=1200&color=61DAFB&center=true&vCenter=true&width=650&lines=Frontend+Developer;React.js+Developer;JavaScript+Enthusiast;Always+Learning+New+Technologies" />
+
+<br><br>
+
 <a href="mailto:rustemzadebeyim@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -24,38 +27,39 @@
 <a href="https://www.instagram.com/baiimrstm">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 💫 About Me
 
-- 🎓 IT Student at **Azerbaijan Technical University (SABAH Groups)**
-- 💻 Front-End Developer focused on **React.js**
-- ⚡ Building responsive, accessible and modern web applications
-- 🌱 Currently learning advanced **React**, **JavaScript**, and backend technologies with **Node.js**, **Express.js**, and **MongoDB**
-- 🎯 Passionate about creating clean UI and great user experiences
+🎓 IT Student at **Azerbaijan Technical University (SABAH Groups)**
 
----
+💻 Front-End Developer focused on **React.js**
 
-## 🌱 Currently Learning
+⚡ Passionate about building responsive and user-friendly web applications.
 
-- JavaScript (ES6+)
-- React.js
-- REST APIs
-- Node.js
-- Express.js
-- MongoDB
+🌱 Currently learning **Advanced React, Node.js, Express.js and MongoDB**
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,redux,nodejs,express,mongodb,tailwind,vite,git,github,figma,vscode,postman,bootstrap&perline=6"/>
 </p>
+
+---
+
+## 📚 Currently Learning
+
+- JavaScript (ES6+)
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
 
 ---
 
@@ -87,15 +91,18 @@
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
+<a href="https://www.instagram.com/baiimrstm">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
 </p>
 
 ---
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Baim55&style=for-the-badge&color=0e75b6)
+![](https://komarev.com/ghpvc/?username=Baim55&style=for-the-badge&color=blueviolet)
 
-⭐️ From **Beyim Rustemzade**
+⭐️ Thanks for visiting my profile!
 
 </div>
-```
