@@ -74,8 +74,8 @@ Building modern, responsive and user-friendly web applications.
 
 ---
 
-## 📈 Contribution Graph
+## 📊 Profile Summary
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baim55&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Baim55&theme=tokyonight" />
 </p>
