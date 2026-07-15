@@ -62,8 +62,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Baim55&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" alt="Beyim's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baim55&layout=compact&theme=radical&hide_border=true" width="30%" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Baim55&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" alt="Beyim's GitHub stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Baim55&layout=compact&theme=radical&hide_border=true" width="30%" alt="Top Languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baim55&theme=radical&hide_border=true" width="49%" alt="GitHub Streak" />
 
@@ -79,5 +79,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Baim55)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/baiimrstm?igsh=Y3hlY3oxb3M2Znls)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rustemzadebeyim@gmail.com)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Baim55&color=blueviolet&style=for-the-badge)
 
 </div>
