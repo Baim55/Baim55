@@ -74,9 +74,8 @@ Building modern, responsive and user-friendly web applications.
 
 ---
 
-## 📦 Repository Stats
+## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Baim55&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Baim55&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Baim55&theme=tokyonight&hide_border=true" />
 </p>
