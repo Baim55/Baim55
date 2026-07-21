@@ -81,9 +81,3 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rustemzadebeyim@gmail.com)
 
 </div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Baim55&color=blueviolet&style=for-the-badge)
-
-</div>
